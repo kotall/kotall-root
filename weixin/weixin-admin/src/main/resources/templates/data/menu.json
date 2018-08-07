@@ -1,0 +1,100 @@
+[
+  {
+    "title": "仪表盘",
+    "iconClass": "icon-home",
+    "eventIconClass": "arrow",
+    "subMenuList": [
+      {
+        "iconClass": "icon-bar-chart",
+        "url": "ui_colors.html",
+        "title": " Dashboard 1"
+      },
+      {
+        "iconClass": "icon-bulb",
+        "url": "ui_general.html",
+        "title": " Dashboard 2"
+      }
+    ]
+  },
+  {
+    "title": "权限管理",
+    "iconClass": "icon-diamond",
+    "eventIconClass": "arrow",
+    "subMenuList": [
+      {
+        "url": "ui_colors.html",
+        "title": "Color Library"
+      },
+      {
+        "url": "ui_general.html",
+        "title": "General Components",
+        "eventIconClass": "arrow",
+        "subMenuList": [
+          {
+            "url": "ui_page_progress_style_1.html",
+            "title": "Flash"
+          },
+          {
+            "url": "ui_page_progress_style_2.html",
+            "title": "Big Counter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "iconClass": "icon-puzzle",
+    "title": "配置管理",
+    "eventIconClass": "arrow",
+    "subMenuList": [
+      {
+        "url": "ui_colors.html",
+        "title": "Color Library"
+      },
+      {
+        "url": "ui_general.html",
+        "title": "General Components"
+      }
+    ]
+  },
+  {
+    "iconClass": "icon-diamond",
+    "title": "商城管理",
+    "eventIconClass": "arrow",
+    "subMenuList": [
+      {
+        "url": "ui_colors.html",
+        "title": "Color Library"
+      },
+      {
+        "url": "ui_general.html",
+        "title": "General Components",
+        "subMenuList": [
+          {
+            "url": "ui_page_progress_style_1.html",
+            "title": "Flash"
+          },
+          {
+            "url": "ui_page_progress_style_2.html",
+            "title": "Big Counter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "iconClass": "icon-puzzle",
+    "title": "微信管理",
+    "eventIconClass": "arrow",
+    "subMenuList": [
+      {
+        "url": "ui_colors.html",
+        "title": "Color Library"
+      },
+      {
+        "url": "ui_general.html",
+        "title": "General Components"
+      }
+    ]
+  }
+]
